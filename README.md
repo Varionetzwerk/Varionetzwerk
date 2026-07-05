@@ -18,7 +18,7 @@
 
 <a href="https://github.com/Varionetzwerk/p2record/stargazers"><img src="https://img.shields.io/github/stars/Varionetzwerk/p2record?style=for-the-badge&logo=github&color=1f6feb" alt="Stars" /></a>
 <img src="https://img.shields.io/github/languages/top/Varionetzwerk/p2record?style=for-the-badge&color=3776AB" alt="Top language" />
-<a href="[(https://aur.archlinux.org/packages/p2record-git)]"><img src="https://img.shields.io/aur/version/p2record?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="AUR version" /></a>
+<a href="[https://aur.archlinux.org/packages/p2record-git]"><img src="https://img.shields.io/aur/version/p2record?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="AUR version" /></a>
 <img src="https://img.shields.io/github/license/Varionetzwerk/p2record?style=for-the-badge&color=2ea043" alt="License" />
 
 Native Linux game clip recorder (like ShadowPlay / Medal.tv) — FFmpeg ring buffer,
