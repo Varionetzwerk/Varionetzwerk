@@ -14,21 +14,26 @@
 
 ## 🔧 My Projects
 
-<div align="center">
-  <a href="https://github.com/Varionetzwerk/p2record">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varionetzwerk&repo=p2record&theme=tokyonight&hide_border=true" alt="p2record" />
-  </a>
-  <a href="https://github.com/Varionetzwerk/hwsonnet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varionetzwerk&repo=hwsonnet&theme=tokyonight&hide_border=true" alt="hwsonnet" />
-  </a>
-</div>
+### 🎮 [p2record](https://github.com/Varionetzwerk/p2record)
 
-- 🎮 **[p2record](https://github.com/Varionetzwerk/p2record)** — Native Linux game clip
-  recorder (like ShadowPlay / Medal.tv) with FFmpeg ring buffer, VAAPI hardware
-  encoding and Wayland & X11 support · **[Website](https://varionetzwerk.github.io/p2record)**
-- 🖥️ **[hwsonnet](https://github.com/Varionetzwerk/hwsonnet)** — Modern hardware
-  information & monitoring tool for Linux (CPU, GPU, RAM, sensors, network) ·
-  **[Website](https://varionetzwerk.github.io/hwsonnet)**
+<a href="https://github.com/Varionetzwerk/p2record/stargazers"><img src="https://img.shields.io/github/stars/Varionetzwerk/p2record?style=for-the-badge&logo=github&color=1f6feb" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/Varionetzwerk/p2record?style=for-the-badge&color=3776AB" alt="Top language" />
+<a href="https://aur.archlinux.org/packages/p2record"><img src="https://img.shields.io/aur/version/p2record?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="AUR version" /></a>
+<img src="https://img.shields.io/github/license/Varionetzwerk/p2record?style=for-the-badge&color=2ea043" alt="License" />
+
+Native Linux game clip recorder (like ShadowPlay / Medal.tv) — FFmpeg ring buffer,
+VAAPI hardware encoding, Wayland & X11 support, GTK4 + Libadwaita UI.
+**[Website](https://varionetzwerk.github.io/p2record)**
+
+### 🖥️ [hwsonnet](https://github.com/Varionetzwerk/hwsonnet)
+
+<a href="https://github.com/Varionetzwerk/hwsonnet/stargazers"><img src="https://img.shields.io/github/stars/Varionetzwerk/hwsonnet?style=for-the-badge&logo=github&color=1f6feb" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/Varionetzwerk/hwsonnet?style=for-the-badge&color=3776AB" alt="Top language" />
+<img src="https://img.shields.io/github/license/Varionetzwerk/hwsonnet?style=for-the-badge&color=2ea043" alt="License" />
+
+Modern hardware information & monitoring tool for Linux — CPU, GPU, RAM,
+sensors, network. Built with Python 3 + PyQt6.
+**[Website](https://varionetzwerk.github.io/hwsonnet)**
 
 ## 🛠️ Tech Stack
 
@@ -48,8 +53,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varionetzwerk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varionetzwerk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varionetzwerk&theme=tokyonight" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varionetzwerk&theme=tokyonight" height="180" alt="Top languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Varionetzwerk&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
 
 ## 📫 Reach me
